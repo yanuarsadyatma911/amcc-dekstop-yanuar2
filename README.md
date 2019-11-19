@@ -24,4 +24,9 @@ cara ngeclone repository
 5. lalu cek pada repository
 
 #KENAPPA PILIH CLONE LEWAT SSH DARIPADA HTTPS?
-alsannya adalah, karena user di minta terus menerus login ketika mengunkan https , berbeda dengan ssh yang cuma login di awal saja
+
+= alsannya adalah, karena user di minta terus menerus login ketika mengunkan https , berbeda dengan ssh yang cuma login di awal saja
+
+#kenapa mengunakan bahasa python?
+
+karena bahasa python lebih mudah dipahami dan tidak sesulit bahasa pemrograman lainya, dan juga python lebih banyak digunakan dalam dunia kerja, python juga menjadi top tree bahasa pemrograman. 
