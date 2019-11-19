@@ -29,4 +29,14 @@ cara ngeclone repository
 
 #kenapa mengunakan bahasa python?
 
-karena bahasa python lebih mudah dipahami dan tidak sesulit bahasa pemrograman lainya, dan juga python lebih banyak digunakan dalam dunia kerja, python juga menjadi top tree bahasa pemrograman. 
+karena bahasa python lebih mudah dipahami dan tidak sesulit bahasa pemrograman lainya, dan juga python lebih banyak digunakan dalam dunia kerja, python juga menjadi top tree bahasa pemrograman.
+
+
+
+
+#Memulai Dengan Python
+- pastikan python sudah terinstal di PC atau leptop anda dengan cara cek 'python --version atau py --version'.
+
+#bagaimana jika python blom ter--instsal?
+ikuti tautan berikut ini :  https://www.dicoding.com/academies/86/tutorials/4738?from=4736
+
