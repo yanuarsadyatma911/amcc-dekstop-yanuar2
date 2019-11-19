@@ -22,3 +22,6 @@ cara ngeclone repository
 3. pastikan dulu sudah tercommit , dengan perintah 'git status'
 4. kirimkan perubahan dengan ngepush  dengan perintah 'git push'
 5. lalu cek pada repository
+
+#KENAPPA PILIH CLONE LEWAT SSH DARIPADA HTTPS?
+alsannya adalah, karena user di minta terus menerus login ketika mengunkan https , berbeda dengan ssh yang cuma login di awal saja
